@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@antfu/ni': ^0.18.8
+  '@antfu/ni': ^0.20.0
   '@preact/preset-vite': ^2.4.0
   '@so1ve/eslint-config-react': ^0.32.3
   bumpp: ^8.2.1
@@ -15,7 +15,7 @@ dependencies:
   preact: 10.11.3
 
 devDependencies:
-  '@antfu/ni': 0.18.8
+  '@antfu/ni': 0.20.0
   '@preact/preset-vite': 2.4.0_preact@10.11.3+vite@4.0.1
   '@so1ve/eslint-config-react': 0.32.3_ha6vam6werchizxrnqvarmz2zu
   bumpp: 8.2.1
@@ -34,8 +34,8 @@ packages:
       '@jridgewell/trace-mapping': 0.3.17
     dev: true
 
-  /@antfu/ni/0.18.8:
-    resolution: {integrity: sha512-0m++AudwQq+wWAz/Ax7g+sh/wFW51HHQ6BtPLsuTAsFIzWB/bv/0COwZE7BRS+u0nqMb6Ks6nlk6cY1TpPDwHg==}
+  /@antfu/ni/0.20.0:
+    resolution: {integrity: sha512-mBgAuq2b0daSA/14LMyjEjaInD7/Zd7KVXZge7bQPKmtQJFqy9/pWBml6DMkMreeHQEomMtIbbeqReNJ/74kjA==}
     hasBin: true
     dev: true
 

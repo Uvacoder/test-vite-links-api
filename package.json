@@ -47,7 +47,7 @@
     "preact": "^10.11.3"
   },
   "devDependencies": {
-    "@antfu/ni": "^0.18.8",
+    "@antfu/ni": "^0.20.0",
     "@preact/preset-vite": "^2.4.0",
     "@so1ve/eslint-config-react": "^0.32.3",
     "bumpp": "^8.2.1",
